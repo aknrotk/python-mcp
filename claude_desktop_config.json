@@ -1,0 +1,13 @@
+{
+	"mcpServers": {
+		"weather": {
+			"command": "uv",
+			"args": [
+				"--directory",
+				"<this repository absolute path>\\python-mcp",
+				"run",
+				"weather.py"
+			]
+		}
+	}
+}

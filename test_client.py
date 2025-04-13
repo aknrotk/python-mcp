@@ -32,4 +32,4 @@ async def test_get_forecast_from_weather():
 
 
 if __name__ == "__main__":
-    asyncio.run(test_hello_world_from_mini_server())
+    asyncio.run(test_get_forecast_from_weather())

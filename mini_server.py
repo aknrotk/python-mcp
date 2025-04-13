@@ -11,7 +11,7 @@ async def hello_world(name: str) -> str:
     Args:
         name (str): 挨拶する相手の名前
 
-    Returns:
+    Returns:claude_desktop_config.json
         str: "hello,名前" の形式の挨拶メッセージ
     """
     return f"hello,{name}"
